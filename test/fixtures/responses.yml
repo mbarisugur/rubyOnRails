@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  feedback: one
+  question: one
+  option: one
+  body: MyString
+
+two:
+  feedback: two
+  question: two
+  option: two
+  body: MyString
